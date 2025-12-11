@@ -12,3 +12,15 @@
 ## Next actions
 
 - [ ]
+
+## CoVibe - Scope checklist
+
+### DONE
+- [ ]
+
+### DOING
+- [ ]
+
+### PLANNED
+- [ ]
+
