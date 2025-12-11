@@ -1,6 +1,6 @@
 # CoInSeed – Investor Summary (2-Pager v1)
 
-- UTS: 20251211T122855Z
+- UTS: 20251211T124138Z
 - Audience: Darren and trusted co-investors
 - Asset: CoInSeed thesis (CoCivium / CoSuite)
 - Role: High-level, investable story that sits above the working thesis file
