@@ -1,0 +1,18 @@
+CoOmnibit:
+  human_label: 'CoOmnibit'
+  category: 'Compute primitives'
+  thesis:
+    repo: 'Thesis'
+    path: 'docs/thesis/DrB/01_frontmatter/DrB_Glossary_CoTerms.md'
+  cocivium:
+    repo: 'CoCivium'
+    theory_path: 'docs/insights/CoOmnibit/CoOmnibit_Theory.md'
+    practice_path: 'docs/insights/CoOmnibit/CoOmnibit_Practice.md'
+  coevotheory:
+    repo: 'CoEvoTheory'
+    manifold_path: 'docs/CoTheoryOfEvolution/CoEvoTheory_ManifoldSpaces.md'
+  gibber:
+    key: null
+    status: 'pending'
+  governance:
+    notes: 'High dimensional state governance; see future DrB chapters.'
