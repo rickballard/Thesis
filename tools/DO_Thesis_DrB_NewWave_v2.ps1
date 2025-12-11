@@ -54,6 +54,17 @@ $files = @{
 ## Next actions
 
 - [ ]
+
+## CoVibe - Scope checklist
+
+### DONE
+- [ ]
+
+### DOING
+- [ ]
+
+### PLANNED
+- [ ]
 "@
 
     "wave_ai_log.md" = @"
