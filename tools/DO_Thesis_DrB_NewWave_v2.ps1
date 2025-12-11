@@ -65,6 +65,17 @@ $files = @{
 
 ### PLANNED
 - [ ]
+
+## CoVibe - Scope checklist
+
+### DONE
+- [ ]
+
+### DOING
+- [ ]
+
+### PLANNED
+- [ ]
 "@
 
     "wave_ai_log.md" = @"
@@ -132,3 +143,4 @@ try {
 finally {
     Pop-Location
 }
+
